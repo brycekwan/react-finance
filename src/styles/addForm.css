@@ -1,0 +1,13 @@
+form.form-inline { 
+  margin: 20px 5px; 
+}
+
+.form-inline input { 
+  margin-left: 5px ;
+  margin-right: 15px;
+}
+
+.form-inline select { 
+  margin-left: 5px ;
+  margin-right: 15px;
+}
